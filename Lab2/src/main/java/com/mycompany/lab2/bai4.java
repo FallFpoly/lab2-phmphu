@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author ICT
  */
 public class bai4 {
-    //lam menu
+    //lam menu //phu
     public static void menu() {
         Scanner sc = new Scanner(System.in);
         int chon;

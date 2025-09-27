@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author ICT
  */
-public class bai1 { //phnphu
+public class bai1 { //phnph
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

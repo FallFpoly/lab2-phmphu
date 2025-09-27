@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @author ICT
  */
 public class bai2 {
-//phnphu
+//phnph
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double a, b, c, delta = 0;
